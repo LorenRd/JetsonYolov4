@@ -1,0 +1,6 @@
+classes= 3
+train  = /home/loren/old_darknet/build/darknet/x64/data/train.txt
+valid  = /home/loren/old_darknet/build/darknet/x64/data/test.txt
+#difficult = data/difficult_2007_test.txt
+names = /home/loren/old_darknet/build/darknet/x64/data/obj.names
+backup = /home/loren/old_darknet/build/darknet/x64/data/backup/
